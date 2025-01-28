@@ -1,4 +1,4 @@
-# Jigglypuff-Maleware (W.I.P.)
+# Jigglypuff-Maleware (W.I.P. Updating)
 Jigglypuff Maleware, a maleware made with a image of Jigglypuff, don't ask why. Starfall & Zophia asked
 
 oh yeah apprently ch'en helped make the OEOU wiki if you want a better explanation lol: https://oeou.fandom.com/wiki
