@@ -3,3 +3,6 @@ Jigglypuff Maleware, a maleware made with a image of Jigglypuff, don't ask why. 
 
 
 # WARNING: The J.P.M. does not go up against the International Law or Github's TOS. If this is suddenly deleted by either side, since this will NOT be used by any of the OEOU members and is simply showcasing, HOW EASY THIS SHIT IS TO MAKE FUCKING MALEWARE.
+Side note: The J.P.M. is only meant for testing purposes to test OEOU's Maleware Accelerator where it is a product that will be sold. It accelerates and runs the virus/maleware so fast that it malfunctions and doesn't work anymore. We've had a 75:198 sucess rate which is like around 50%. It's still a WIP
+
+#To Ch'en and Starfall, MAKE THIS THE MOST STUPIDEST THING EVER FOOL HAHA -zophia
