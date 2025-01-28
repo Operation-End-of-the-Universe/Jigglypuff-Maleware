@@ -3,13 +3,16 @@ Jigglypuff Maleware, a maleware made with a image of Jigglypuff, don't ask why. 
 
 oh yeah apprently ch'en helped make the OEOU wiki if you want a better explanation lol: https://oeou.fandom.com/wiki
 
-WARNING: The J.P.M. does not go up against the International Law or Github's TOS. If this is suddenly deleted, oh well. 
+WARNING: The J.P.M. does not go up against the International Law or Github's TOS. If this is suddenly deleted, oh well. Plus this is a spin off maleware virus version of the "Albanian Virus"
 
-Side note: The J.P.M. is only meant for testing purposes to test OEOU's Maleware Accelerator where it is a product that will be sold. It accelerates and runs the virus/maleware so fast that it malfunctions and doesn't work anymore. We've had a 75:198 sucess rate which is like around 50%. It's still a WIP
+since theres C code one, you can put it in a .exe file to troll the fuck out of them :D
 
+# Chat for commanders and da lordy lord
 To Ch'en and Starfall, MAKE THIS THE MOST STUPIDEST THING EVER FOOLS HAHA -zophia 
 
 ye fuck you z, no one likes you - starfall
+
+no thank you - zophia
 
 (this convo above is the OEOU chiefs being gay af and shit. all commanders have access to this account which is even funnier lmao)
 
