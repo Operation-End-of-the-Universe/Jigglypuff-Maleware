@@ -1,6 +1,7 @@
 # Jigglypuff-Maleware (W.I.P.)
 Jigglypuff Maleware, a maleware made with a image of Jigglypuff, don't ask why. Starfall & Zophia asked
 
+oh yeah apprently ch'en helped make the OEOU wiki if you want a better explanation lol: https://oeou.fandom.com/wiki
 
 WARNING: The J.P.M. does not go up against the International Law or Github's TOS. If this is suddenly deleted, oh well. 
 
