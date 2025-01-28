@@ -1,0 +1,14 @@
+#define WIN32_LEAN_AND_MEAN
+#include <windows.h>
+
+int main() {
+
+  MessageBox(
+    NULL, 
+    "Hi, I am an Jigglypuff Virus but because of that I'm one of the wakest pokemon, unfortunately I am not able to harm your computer. Please be so kind to delete one of your important files yourself and then forward me to other users. Many thanks for your cooperation! Best regards, Jigglypugg Virus",
+    "A Wild Jigglypuff Appears !",
+    MB_ICONERROR | MB_YESNOCANCEL | MB_DEFBUTTON1
+  );
+
+  return 0;
+}
